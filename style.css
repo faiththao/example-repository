@@ -1,3 +1,19 @@
+head {
+    position: center;
+}
+
+h1 {
+    color: white;
+}
+
 body {
-    background: blue;
+    background: #9C9C9C;
   } 
+
+h2 {
+    color: #b3daff;
+}
+
+table {
+    color: white;
+}
